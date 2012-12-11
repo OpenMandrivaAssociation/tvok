@@ -62,3 +62,10 @@ EOF
 %{_datadir}/applications/%{name}.desktop
 %{_iconsdir}/hicolor/*/apps/%{name}.png
 
+
+
+%changelog
+* Mon May 21 2012 Andrey Bondrov <abondrov@mandriva.org> 0.5.2.36-1
++ Revision: 799778
+- imported package tvok
+
