@@ -4,7 +4,7 @@
 
 Name:		tvok
 Version:	%{oversion}.%{mversion}
-Release:	%mkrel 1
+Release:	2
 Summary:	A program for watching and recording TV
 Group:		Video
 License:	GPLv3+
