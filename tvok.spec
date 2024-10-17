@@ -8,7 +8,7 @@ Release:	2
 Summary:	A program for watching and recording TV
 Group:		Video
 License:	GPLv3+
-URL:		http://www.kochkin.org/doku.php/tvok/010-index
+URL:		https://www.kochkin.org/doku.php/tvok/010-index
 Source:		http://tvok.kochkin.org/snapshots/%{name}-%{oversion}-%{mversion}-%{dversion}.tar.bz2
 BuildRequires:	qt4-devel
 BuildRequires:	imagemagick
