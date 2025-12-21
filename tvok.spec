@@ -10,6 +10,7 @@ Group:		Video
 License:	GPLv3+
 URL:		https://www.kochkin.org/doku.php/tvok/010-index
 Source:		http://tvok.kochkin.org/snapshots/%{name}-%{oversion}-%{mversion}-%{dversion}.tar.bz2
+BuildRequires:	make
 BuildRequires:	qt4-devel
 BuildRequires:	imagemagick
 Requires:	mplayer
